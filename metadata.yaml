@@ -1,0 +1,32 @@
+_repo: The-HorsewomanA-Practical-Guide-to-Side-Saddle-Riding-2nd.-Ed._26318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayes, Alice M.
+    gutenberg_agent_id: '31908'
+    url: http://www.gutenberg.org/2009/agents/31908
+  editor:
+    agent_name: Hayes, M. Horace (Matthew Horace)
+    alias: Hayes, Matthew Horace
+    birthdate: 1842
+    deathdate: 1904
+    gutenberg_agent_id: '31909'
+    url: http://www.gutenberg.org/2009/agents/31909
+description: ''
+gutenberg_issued: '2008-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horsemanship'
+- !lcsh 'Sidesaddle riding'
+title: 'The Horsewoman: A Practical Guide to Side-Saddle Riding, 2nd. Ed.'
+url: http://www.gutenberg.org/ebooks/26318
